@@ -6,9 +6,9 @@ Pick a color, paint individual keys, save the look, and leave the app beside the
 
 ## Download for Windows
 
-**[Download Hydra RGB for Windows](https://github.com/techistad/potronics-hydra10-rgbapp/raw/main/dist/Hydra-RGB-Windows.exe)**
+**[Download Hydra RGB for Windows](https://github.com/techistad/potronics-hydra10-rgbapp/releases/latest/download/Hydra-RGB-Windows.exe)**
 
-The file is also in this repo at [`dist/Hydra-RGB-Windows.exe`](dist/Hydra-RGB-Windows.exe).
+The app is published on the [Releases](https://github.com/techistad/potronics-hydra10-rgbapp/releases) page, under the latest tag.
 
 1. Plug the keyboard in with **USB-C**.
 2. Run `Hydra-RGB-Windows.exe`.
